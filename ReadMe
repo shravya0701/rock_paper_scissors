@@ -1,0 +1,24 @@
+🪨 📃 ✂️ Rock-Paper-Scissors – Console Edition
+A classic game of chance, now with emojis and Python power!
+Welcome to a quick, fun, and emoji-fied game of Rock-Paper-Scissors right in your terminal. Battle against a cunning computer opponent in this lightweight Python program that blends simplicity with a touch of flair.
+
+How to Play
+Launch the game and enter your choice:
+r for 🪨
+p for 📃
+s for ✂️
+
+Watch the computer respond with its own choice, then find out if you've won, lost, or tied. After each round, you’ll be asked if you want to keep playing.
+
+Requirements:
+
+Python 3.x
+No additional libraries needed — just run and play!
+
+Getting Started
+Clone or download the script.
+
+Open your terminal.
+
+Run the game with:
+python app.py
